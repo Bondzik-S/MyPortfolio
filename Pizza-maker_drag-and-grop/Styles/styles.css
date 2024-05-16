@@ -338,6 +338,10 @@ footer > form > div > p {
     color: red;
 }
 
+._js-delete {
+    cursor: pointer;
+}
+
 @media screen and (max-width:600px) {
     nav, #banner {
         display: none;
